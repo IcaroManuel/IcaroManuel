@@ -1,23 +1,62 @@
-## Olá! Eu sou Ícaro, um desenvolvedor com experiência em front-end e back-end.
+# Olá, eu sou Icaro Fernandes! 👋
 
-Desenvolvedor full stack com experiência em JavaScript, TypeScript e SQL. Atuo no front-end com React, Next.js e Tailwind CSS, e no back-end com Node.js, Express e NestJS. Tenho domínio em APIs REST, versionamento com Git. Foco em código limpo, performance e boas práticas de desenvolvimento.
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9f9f9f&bg_color=000000" />
+</div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+### 💻 Sobre Mim
+
+Sou um **Desenvolvedor Full Stack** baseado em Fortaleza - CE, focado em resolver problemas de negócio através da tecnologia. Unifico a agilidade do ecossistema **JavaScript** com a robustez da engenharia de software em **.NET**.
+
+Atualmente, trabalho na **Avine**, atuando na modernização de arquiteturas, sustentação de sistemas críticos e criação de novas features.
+
+* 🔭 **Atualmente trabalhando com:** C# (.NET), React.js, Next.js e modernização de legado (ASP Clássico).
+* 🚀 **Especialidades:** Arquitetura de Microsserviços, APIs RESTful escaláveis e Integrações.
+* 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (UniAteneu).
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
   
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=8A2BE2" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=8A2BE2" alt=".NET">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=8A2BE2" alt="NodeJS">
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=8A2BE2" alt="TypeScript">
   
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/icarofeernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!--
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- -->
-  <a href = "mailto:icaroomanuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  <a href="www.linkedin.com/in/icaro-manuel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br/>
+
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=8A2BE2" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=8A2BE2" alt="NextJS">
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=8A2BE2" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Styled--Components-000000?style=for-the-badge&logo=styled-components&logoColor=8A2BE2" alt="Styled Components">
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=8A2BE2" alt="Postgres">
+  <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=8A2BE2" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=8A2BE2" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=8A2BE2" alt="AWS">
   
+</div>
+
+---
+
+### 💼 Experiência Profissional Recente
+
+| Empresa | Cargo | Período | Stack Principal |
+| :--- | :--- | :--- | :--- |
+| **Avine** | Desenvolvedor Fullstack Jr | 12/2025 - Atual | C#, .NET, ASP Clássico, TypeScript, Node.js, Next.js |
+| **Grupo Sobrancelhas e Design** | Programador Jr Nv 2 | 01/2023 - 04/2025 | Node.js, TypeScript, React, SQL |
+
+---
+
+<div align="center">
+  <a href="mailto:icaroomanuel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/inicaroofernandes">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn" />
+  </a>
 </div>
