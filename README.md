@@ -18,7 +18,7 @@ Atualmente, trabalho na **Avine**, atuando na modernização de arquiteturas, su
 
 ### 🛠️ Tech Stack
 
-<div align-items="center">
+<div align="center">
   
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=8A2BE2" alt="C#">
   <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=8A2BE2" alt=".NET">
