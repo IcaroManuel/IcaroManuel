@@ -1,8 +1,8 @@
 # Olá, eu sou Icaro Fernandes! 👋
 
-<!-- <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9f9f9f&bg_color=000000" />
-</div> -->
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IcaroManuel&show_icons=true&theme=dark&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9f9f9f&bg_color=000000" />
+</div>
 
 ### 💻 Sobre Mim
 
