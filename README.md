@@ -6,11 +6,11 @@
 
 ### 💻 Sobre Mim
 
-Sou um **Desenvolvedor Full Stack** baseado em Fortaleza - CE, focado em resolver problemas de negócio através da tecnologia. Unifico a agilidade do ecossistema **JavaScript** com a robustez da engenharia de software em **.NET**.
+Sou um **Desenvolvedor Full Stack** baseado em Fortaleza - CE, focado em resolver problemas de negócio através da tecnologia. Unifico a agilidade do ecossistema **JavaScript** com a robustez da engenharia de software em **C#**.
 
 Atualmente, trabalho na **Avine**, atuando na modernização de arquiteturas, sustentação de sistemas críticos e criação de novas features.
 
-* 🔭 **Atualmente trabalhando com:** C# (.NET), React.js, Next.js e modernização de legado (ASP Clássico).
+* 🔭 **Atualmente trabalhando com:** C# (.NET), React.js, Next.js e sustentação de legado (ASP Clássico).
 * 🚀 **Especialidades:** Arquitetura de Microsserviços, APIs RESTful escaláveis e Integrações.
 * 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (UniAteneu).
 
