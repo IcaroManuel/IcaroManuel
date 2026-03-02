@@ -47,7 +47,7 @@ Atualmente, trabalho na **Avine**, atuando na modernização de arquiteturas, su
 
 | Empresa | Cargo | Período | Stack Principal |
 | :---- | :---- | :---- | :---- |
-| **Avine** | Desenvolvedor Fullstack Jr | 12/2025 - Atual | C#, .NET, ASP Clássico, TypeScript, Node.js, Next.js |
+| **Avine** | Desenvolvedor Fullstack| 12/2025 - Atual | C#, .NET, ASP Clássico, TypeScript, Node.js, Next.js |
 | **Grupo Sobrancelhas e Design** | Programador Jr Nv 2 | 01/2023 - 04/2025 | Node.js, TypeScript, React, SQL |
 
 ---
