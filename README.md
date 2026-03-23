@@ -1,62 +1,59 @@
-# Olá, eu sou Icaro Fernandes!
+# Olá, eu sou Icaro Fernandes! 👋
 
-<!-- <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IcaroManuel&show_icons=true&theme=dark&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9f9f9f&bg_color=000000" />
-</div> -->
+### 🚀 Desenvolvedor Fullstack | React.js, Next.js, Node.js & .NET | TypeScript & C#
 
-### 💻 Sobre Mim
+Sou um desenvolvedor focado em resolver problemas de negócio através da tecnologia, unificando a agilidade do ecossistema **JavaScript/TypeScript** com a robustez da engenharia em **C# / .NET**. Adoto uma filosofia centrada em **Clean Architecture** e sistemas distribuídos para entregar soluções resilientes e escaláveis.
 
-Sou um **Desenvolvedor Full Stack** baseado em Fortaleza - CE, focado em resolver problemas de negócio através da tecnologia. Unifico a agilidade do ecossistema **JavaScript** com a robustez da engenharia de software em **C#**.
+---
 
-Atualmente, trabalho na **Avine**, atuando na modernização de arquiteturas, sustentação de sistemas críticos e criação de novas features.
-
-* 🔭 **Atualmente trabalhando com:** C# (.NET), React.js, Next.js e sustentação de legado (ASP Clássico).
-* 🚀 **Especialidades:** Arquitetura de Microsserviços, APIs RESTful escaláveis e Integrações.
-* 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (UniAteneu).
+### 📈 Impacto Técnico em Destaque
+* **Otimização de Performance:** Reduzi em **98%** o tempo de resposta de consultas complexas na Avine, transformando processos de 1h 40min em apenas 2 minutos.
+* **Segurança e Governança:** Implementei serviços centralizados de permissões (**RBAC/ABAC**) para mitigar vulnerabilidades e garantir a integridade dos dados.
+* **Automação de Workflows:** Integrei a API da D4Sign para automatizar fluxos de assinaturas digitais, eliminando processos manuais administrativos.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=8A2BE2" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=8A2BE2" alt=".NET">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=8A2BE2" alt="NodeJS">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=8A2BE2" alt="TypeScript">
-  
-  <br/>
-
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=8A2BE2" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=8A2BE2" alt="NextJS">
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=8A2BE2" alt="Tailwind">
-  <img src="https://img.shields.io/badge/Styled--Components-000000?style=for-the-badge&logo=styled-components&logoColor=8A2BE2" alt="Styled Components">
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=8A2BE2" alt="Postgres">
-  <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=8A2BE2" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=8A2BE2" alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=8A2BE2" alt="AWS">
-  
-</div>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | TypeScript, JavaScript, C# (.NET Core), Dart, VBScript |
+| **Back-end** | Node.js, ASP.NET Core, Microservices, RESTful APIs |
+| **Front-end & Mobile** | React.js, Next.js, Flutter, Expo, Tailwind CSS |
+| **Dados** | SQL Server, PostgreSQL, MySQL, MariaDB, TypeORM |
+| **DevOps & Infra** | Docker, Jenkins (CI/CD), AWS Foundations |
+| **Qualidade** | Clean Architecture, Unit Testing (xUnit, Jest), Figma |
 
 ---
 
-### 💼 Experiência Profissional Recente
+### 💼 Experiência Recente
 
-| Empresa | Cargo | Período | Stack Principal |
-| :---- | :---- | :---- | :---- |
-| **Avine** | Desenvolvedor Fullstack| 12/2025 - Atual | C#, .NET, ASP Clássico, TypeScript, Node.js, Next.js |
-| **Grupo Sobrancelhas e Design** | Programador Jr Nv 2 | 01/2023 - 04/2025 | Node.js, TypeScript, React, SQL |
+* **Avine** | Desenvolvedor Fullstack (Dez 2025 – Presente)
+    * Modernização de arquiteturas e sustentação de sistemas críticos.
+    * Desenvolvimento de aplicações mobile para logística com Flutter e Expo.
+    * Gestão de pipelines de CI/CD com Jenkins e orquestração via Docker.
+
+* **Grupo Sobrancelhas Design** | Desenvolvedor Fullstack Jr II (Set 2022 – Abr 2025)
+    * Projetei o microsserviço de frente de loja (POS) com Node.js e TypeScript.
+    * Desenvolvi o módulo financeiro e integração de pagamentos via API Malga.
+    * Implementação de dashboards estratégicos com Apache Superset.
 
 ---
 
-<div align="center">
+### 🎓 Formação & Certificações
+* **Análise e Desenvolvimento de Sistemas** – UniAteneu (2023–2025).
+* **Técnico em Redes de Computadores** – EEEP Mário Alencar.
+* **Certificações:** AWS Cloud Foundations, Testes em .NET (xUnit), Formação C# e Orientação a Objetos.
+
+---
+
+### 📫 Vamos nos conectar?
+
+<div align="left">
   <a href="mailto:icaroomanuel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/inicaroofernandes">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/icaro-manuel">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
